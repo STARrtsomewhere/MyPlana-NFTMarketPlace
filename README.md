@@ -1,6 +1,6 @@
 # MyPlana-NFTMarketPlace
 An NFT marketplace where users can connect wallet, mint NFTs, collect the NFTs and manage the MyPlana NFTs.
-The smartcontract was created using Ethereum's REMIX IDE.
+The smartcontract was created using Ethereum's REMIX IDE and deployed on the Lisk Sepolia Testnet.
 
 Status: 0x1 Transaction mined and execution successful
 
